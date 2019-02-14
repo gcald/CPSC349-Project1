@@ -1,0 +1,60 @@
+
+.background-images{
+  background-color: #332d2c;
+  color: white;
+}
+
+.background-index{
+  background-color: #f8f4d7;
+}
+
+.background-course{
+  background-color: #aef4d8;
+}
+
+.name{
+  font-family: monospace;
+}
+
+.para-one{
+  background-color: #eae5c5;
+}
+
+.para-two{
+  background-color: #c5c1a7;
+}
+
+.alt-bullet{
+  list-style-type: square;
+}
+
+.alt-ordered{
+  list-style-type: lower-alpha;
+}
+
+.nav-bar{
+  border-style: solid;
+  border-width: thin;
+  border-bottom: 5px;
+  border-bottom-width: medium;
+  border-bottom-style: dashed;
+  border-color: black;
+  padding: 10px;
+  background-color: #e7e6e6;
+  color: black;
+}
+
+.image{
+  overflow: hidden;
+  object-fit: contain;
+  width: 480px;
+  height: 360px;
+}
+
+img{
+  max-height: 100%
+}
+
+a:hover{
+  color: #ca1f9b;
+}
